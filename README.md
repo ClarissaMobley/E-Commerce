@@ -1,8 +1,8 @@
 <div id="readme-top"></div>
-<h3 align="center">Weather Dashboard</h3>
+<h3 align="center">E-Commerce Site</h3>
 
   <p align="center">
-   An interactive weather website.
+   An e-commerce site that tracks products, categories, and tags.
   </p>
 </div>
 
@@ -20,33 +20,36 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![screenshotTask](./assets/img/Screenshot%202024-06-21%20at%202.01.47 PM.png)
 
-This weather dashboard uses a server-side API to get the current and upcoming weather from multiple cities.
+This project is an e-commerce site that tracks products, categories, and tags. The site uses an Express.js API and uses Sequelize to interact with a Postgres database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BUILT WITH -->
+
 ### Built With
 
-*  node.js
-*  express.js
-*  sequelize
-*  postgres
+- node.js
+- express.js
+- sequelize
+- postgres
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
 
+## Usage
 
 [E-Commerce Video Link](https://drive.google.com/file/d/1Wnp0LYrhesZU8dFnZy6_I0ZgsdBFPhDA/view?usp=drive_link)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 GIVEN a functional Express.js API
@@ -61,17 +64,16 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTOR -->
+
 ## Contributor
 
-* Clarissa Mobley - [Git Hub](https://github.com/ClarissaMobley?tab=repositories)
-
+- Clarissa Mobley - [Git Hub](https://github.com/ClarissaMobley?tab=repositories)
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
